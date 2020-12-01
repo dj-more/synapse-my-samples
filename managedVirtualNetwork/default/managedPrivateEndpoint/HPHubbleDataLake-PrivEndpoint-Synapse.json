@@ -1,0 +1,10 @@
+{
+	"name": "HPHubbleDataLake-PrivEndpoint-Synapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/affeac10-5929-43aa-9abd-4ada85acb943/resourceGroups/HP-RG-Synapse/providers/Microsoft.Storage/storageAccounts/hphubbledatalake",
+		"groupId": "dfs",
+		"fqdns": [
+			"hphubbledatalake.dfs.core.windows.net"
+		]
+	}
+}

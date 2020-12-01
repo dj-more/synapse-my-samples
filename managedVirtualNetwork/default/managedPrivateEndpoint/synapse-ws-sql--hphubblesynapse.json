@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--hphubblesynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/affeac10-5929-43aa-9abd-4ada85acb943/resourceGroups/HP-RG-Synapse/providers/Microsoft.Synapse/workspaces/hphubblesynapse",
+		"groupId": "sql",
+		"fqdns": [
+			"hphubblesynapse.2780509f-37f1-4709-b6c6-8d772147a1a5.sql.azuresynapse.net"
+		]
+	}
+}
